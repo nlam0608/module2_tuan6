@@ -1,0 +1,9 @@
+{
+    "name": "lam/tuan_6",
+    "autoload": {
+        "psr-4": {
+            "Lam\\Tuan6\\": "src/"
+        }
+    },
+    "require": {}
+}
